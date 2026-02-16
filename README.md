@@ -5,9 +5,31 @@ Healthcare systems worldwide face escalating clinician burnout, widening health 
 
 This notebook demonstrates **Google's MedGemma 1.5** model for analyzing medical images including X-rays, CT scans, and ultrasounds.
 
-[https://radiologyassistant.nl/assets/chest-x-ray-lung-disease/a50e9a848bc956_5a-NHL.jpg<img width="627" height="432" alt="image" src="https://github.com/user-attachments/assets/53560d51-625f-4740-9596-fd00543dbdee" />
-](https://radiologyassistant.nl/assets/chest-x-ray-lung-disease/a50e9a848bc956_5a-NHL.jpg)<img width="627" height="432" alt="image" src="https://github.com/user-attachments/assets/de0830ed-b910-4036-9dd0-fce5e263a8da" />
+## Enviroment Setup
+We install packages torch, transformers, amongst others. We then check thier versions and authenticate hugging face which allows us to access MedGemma.
 
+## Cases:
+### Case 1: Standard Chest X-Ray
+
+**Objective:** The model will analyze a standard chest X-ray and identify any abnormalities.
+
+The following are the key structures that will be evaluated:
+* Lung fields heart size
+* mediastinum
+* bony structures
+
+### Case 2: Suspected Pneumonia
+
+**Patient:** 58-year-old male
+
+**Clinical History:**
+- 3-month progressive shortness of breath
+- Non-productive cough
+- 7 kg weight loss over 8 weeks
+- Low-grade fevers and night sweats
+- No response to multiple antibiotic courses
+
+**Differential:** Pneumonia, tuberculosis, lung malignancy, interstitial lung disease
 
 ### Goals:
 - 🔍 Analyze chest X-rays and identify any abnormalities
