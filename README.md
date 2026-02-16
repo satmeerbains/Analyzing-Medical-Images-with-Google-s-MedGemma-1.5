@@ -11,7 +11,8 @@ We install packages torch, transformers, amongst others. We then check thier ver
 ## Cases:
 ### Case 1: Standard Chest X-Ray
 
-https://www.cvmg.com/wp-content/uploads/2014/10/chest-xray.jpg<img width="742" height="808" alt="image" src="https://github.com/user-attachments/assets/fcb6d551-dd30-4f2f-83d5-5f00e683c7d6" />
+https://www.cvmg.com/wp-content/uploads/2014/10/chest-xray.jpg
+<img width="742" height="808" alt="image" src="https://github.com/user-attachments/assets/fcb6d551-dd30-4f2f-83d5-5f00e683c7d6" />
 
 **Objective:** The model will analyze a standard chest X-ray and identify any abnormalities.
 
