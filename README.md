@@ -1,7 +1,7 @@
 # 🏥 Analyzing Medical Images with Google MedGemma 1.5
 ---
 ## 🎯 Abstract
-Healthcare systems worldwide face escalating clinician burnout, widening health literacy gaps, and limited access to specialist care in resource-constrained settings. Physicians spend over half their time on documentation, patients often struggle to understand medical guidance, and rural clinics lack advanced diagnostic support.
+Healthcare systems worldwide face escalating clinician burnout, widening health literacy gaps, and limited access to specialist care in resource-constrained settings. Patients often struggle to understand medical guidance, and especially rural clinics which lack advanced diagnostic support.
 
 This notebook demonstrates **Google's MedGemma 1.5** model for analyzing medical images including X-rays, CT scans, and ultrasounds.
 
