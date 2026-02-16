@@ -5,8 +5,8 @@ Healthcare systems worldwide face escalating clinician burnout, widening health 
 
 This notebook demonstrates **Google's MedGemma 1.5** model for analyzing medical images including X-rays, CT scans, and ultrasounds.
 
-
-https://radiologyassistant.nl/assets/chest-x-ray-lung-disease/a50e9a848bc956_5a-NHL.jpg<img width="627" height="432" alt="image" src="https://github.com/user-attachments/assets/53560d51-625f-4740-9596-fd00543dbdee" />
+[https://radiologyassistant.nl/assets/chest-x-ray-lung-disease/a50e9a848bc956_5a-NHL.jpg<img width="627" height="432" alt="image" src="https://github.com/user-attachments/assets/53560d51-625f-4740-9596-fd00543dbdee" />
+](https://radiologyassistant.nl/assets/chest-x-ray-lung-disease/a50e9a848bc956_5a-NHL.jpg)<img width="627" height="432" alt="image" src="https://github.com/user-attachments/assets/de0830ed-b910-4036-9dd0-fce5e263a8da" />
 
 
 ### Goals:
